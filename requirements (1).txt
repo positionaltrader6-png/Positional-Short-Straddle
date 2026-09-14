@@ -1,0 +1,10 @@
+streamlit>=1.40
+smartapi-python
+pyotp
+gspread>=6.0
+google-auth
+pandas>=2.0
+numpy>=1.26
+requests
+websocket-client
+logzero
